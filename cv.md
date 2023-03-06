@@ -28,3 +28,26 @@ This year, I’ve become interested in the IT field and I’ve realised that it 
 
 - Agile
 - Teamwork
+
+## Code example:
+
+> For this kata you will have to forget how to add two numbers. In simple terms, our method does not like the principle of carrying over numbers and just writes down every number it calculates.
+> You may assume both integers are positive integers.
+
+```
+function add(num1, num2) {
+  const arr1 = num1.toString().split('').reverse();
+  const arr2 = num2.toString().split('').reverse();
+  const result = [];
+
+  const length = arr1.length > arr2.length ? arr1.length : arr2.length;
+  for (let i = 0; i < length; i++) {
+    const a = arr1[i] ? arr1[i] : 0;
+    const b = arr2[i] ? arr2[i] : 0;
+    result.push(parseInt(a) + parseInt(b));
+  }
+  return parseInt(result.reverse().join(''));
+}
+```
+
+---
