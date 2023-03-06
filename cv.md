@@ -22,7 +22,6 @@ This year, I’ve become interested in the IT field and I’ve realised that it 
   - Flex
   - adaptive
 - JavaScript(basic)
-  ***
 
 ## Soft Skills:
 
