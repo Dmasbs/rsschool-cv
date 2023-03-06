@@ -51,3 +51,19 @@ function add(num1, num2) {
 ```
 
 ---
+
+## Experience:
+
+- **[WebStudio](https://github.com/Dmasbs/jss-2022-hw-08) [HTML, css]**
+
+## Education
+
+### university:
+
+**Educational institution:** Higher School of Social and Economic Przeworsk
+**Faculty:** Management in administration
+
+## Languages:
+
+- English - elementary (under study)
+- Ukrainian - Native
